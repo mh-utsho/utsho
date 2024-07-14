@@ -9,7 +9,7 @@
 
 .home {
  
-   height: 100vh;
+   height: 125vh;
    background: linear-gradient(-60deg,#08266c 30%,#a621e3 100%);
    display: flex;
    justify-content: space-between;
