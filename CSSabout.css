@@ -9,7 +9,7 @@
 
 .home {
  
-   height: 125vh;
+   height: 100vh;
    background: linear-gradient(-60deg,#08266c 30%,#a621e3 100%);
    display: flex;
    justify-content: space-between;
@@ -126,7 +126,7 @@
 
 
 
-@media (max-width:1005px){
+@media (max-width:1080px){
     
   .home {
        margin-top: -70px;
